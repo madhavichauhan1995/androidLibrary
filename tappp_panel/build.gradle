@@ -52,4 +52,3 @@ dependencies {
     releaseImplementation 'com.example.tappp_panel:flutter_release:1.0'
 }
 
-apply from: 'uploadArchives.gradle' // --> deploy configuration
